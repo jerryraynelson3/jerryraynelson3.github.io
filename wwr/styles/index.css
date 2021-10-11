@@ -5,6 +5,7 @@ div {
 nav a{
      max-width: 1600px;
      margin:0 auto;
+     background-color: rgb(230, 229, 200);
 }
 #hero-msg h1{
      max-width: 1600px;
@@ -24,4 +25,32 @@ main section{
 }
 #background{
      height: 725px;
+     background-color: rgba(120, 197, 215, 255);
+}
+body{
+     background-color: rgba(120, 197, 215, 255);
+}
+header{
+     background-color: rgba(19, 66, 102, 255);
+}
+nav a:hover{
+     background-color: rgba(252, 225, 114, 255);
+}
+.book{
+     background-color: rgb(230, 229, 200);
+}
+.join{
+     background-color: rgb(230, 229, 200);
+}
+.book:hover{
+     background-color: rgba(252, 225, 114, 255);
+}
+.join:hover{
+     background-color: rgba(252, 225, 114, 255);
+}
+.msg{
+     background-color: rgb(230, 229, 200);
+}
+footer{
+     background-color: rgba(19, 66, 102, 255);
 }
